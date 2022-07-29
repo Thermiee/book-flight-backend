@@ -101,6 +101,7 @@ rubocop
 
 :man: **Emmanuel Jolugbo**
 - [GitHub](https://github.com/Thermiee)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-jolugbo/)
 
 ## 🤝 Contributing
 
